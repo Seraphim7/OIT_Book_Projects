@@ -1,0 +1,4 @@
+﻿  militaryToStandardTime.cpp
+e:\visual studio projects\c++\vs 2017\book projects\ch 7\militarytostandardtime\militarytostandardtime\militarytostandardtime.cpp(108): warning C4715: 'determineTimeOfDay': not all control paths return a value
+  militaryToStandardTime.vcxproj -> E:\Visual Studio Projects\C++\VS 2017\book projects\CH 7\militaryToStandardTime\Debug\militaryToStandardTime.exe
+  militaryToStandardTime.vcxproj -> E:\Visual Studio Projects\C++\VS 2017\book projects\CH 7\militaryToStandardTime\Debug\militaryToStandardTime.pdb (Partial PDB)

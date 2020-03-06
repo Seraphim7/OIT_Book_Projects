@@ -1,0 +1,4 @@
+﻿  calucatingTypeOfMembership.cpp
+e:\visual studio projects\c++\vs 2017\book projects\ch 7\calucatingtypeofmembership\calucatingtypeofmembership\calucatingtypeofmembership.cpp(76): warning C4715: 'CheckMembershipStatus': not all control paths return a value
+  calucatingTypeOfMembership.vcxproj -> E:\Visual Studio Projects\C++\VS 2017\book projects\CH 7\calucatingTypeOfMembership\Debug\calucatingTypeOfMembership.exe
+  calucatingTypeOfMembership.vcxproj -> E:\Visual Studio Projects\C++\VS 2017\book projects\CH 7\calucatingTypeOfMembership\Debug\calucatingTypeOfMembership.pdb (Partial PDB)
